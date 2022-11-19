@@ -6,7 +6,7 @@ categories: java react tutorial
 ---
 
 Hello everybody! Today I'm going to start a series of articles about writing a task manager application from scratch!
-I beleive these tutorials will be helpful for those people who want to start learning programming but don't know how and what to do. Being a follower of the principle that the best way to learn something is practice, I decided to share my knowledge and experience here.
+I believe these tutorials will be helpful for those people who want to start learning programming but don't know how and what to do. Being a follower of the principle that the best way to learn something is practice, I decided to share my knowledge and experience here.
 Hope it will be interesting. Let's start!
 
 To start off with, we have to prepare our environment. We need the following tools:
